@@ -137,7 +137,7 @@ export class DigitalClock extends LitElement {
         return css`
           ha-card {
             text-align: center;
-            font-weight: bold;
+            font-weight: medium;
             padding: 8px 0;
           }
 
